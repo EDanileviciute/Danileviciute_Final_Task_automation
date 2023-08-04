@@ -1,8 +1,0 @@
-node_modules
-test-results
-.prettierignore
-.prettierrc
-cucumber.js
-package-lock.json
-package.json
-tsconfig.json
